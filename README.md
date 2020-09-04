@@ -1,0 +1,1 @@
+Welcome to my first Git project man idk what I'm doin aite
